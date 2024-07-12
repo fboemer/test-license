@@ -200,7 +200,11 @@
     See the License for the specific language governing permissions and
     limitations under the License.
 
+-------------------------------------------------------------------------
 
+This license applies to parts of Swift Homomorphic Encryption originating from the https://github.com/apple/swift/ repository:
+- Sources/HomomorphicEncryption/DoubleWidthUInt.swift
+- Tests/HomomorphicEncryptionTests/DoubleWidthUIntTests.swift
 
 ## Runtime Library Exception to the Apache 2.0 License: ##
 
